@@ -1,5 +1,5 @@
 // Calculates and prints the Chroma Celestial date
-function getCelestialDate() {
+window.onload = function getCelestialDate() {
 
 // Dec 21 2016 00:00 UT, to correlate with Gregorian calendar, in seconds
 const dec21_2016 = 1482278400;
